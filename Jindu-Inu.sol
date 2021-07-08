@@ -428,7 +428,7 @@ contract JinduInu is Context, IERC20, Ownable {
     using SafeMath for uint256;
     using Address for address;
     
-    address payable public marketingAddress = payable(0x6cE8351284529f8f7D6dA3eAd3417b1620F27263); // <=== Input Marketing Address
+    address payable public marketingAddress = payable(0x4b80eB9bc849524814a8E1Efc62cc41F1D28C2B0); // <=== Input Marketing Address
     address public immutable deadAddress = 0x000000000000000000000000000000000000dEaD;
     mapping (address => uint256) private _rOwned;
     mapping (address => uint256) private _tOwned;
