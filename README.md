@@ -5,8 +5,8 @@ Jindu Inu 2.0
 
 Milestones:
 ========
-New smart contract ✅
-Web application ⚙
+New smart contract ✅<br/>
+Web application ⚙<br/>
 Swap old to new smart contract ⚙
 
 General:
