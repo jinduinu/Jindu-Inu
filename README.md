@@ -5,7 +5,8 @@ Jindu Inu 2.0
 
 Milestones:
 ========
-New smart contract ✅<br/>
+New smart contract ✅ <br/>
+Testnet: https://testnet.bscscan.com/token/0x06c3d1a3082936DA2C4730cb8158F09defB5eBf3 <br/>
 Web application ⚙<br/>
 Swap old to new smart contract ⚙
 
