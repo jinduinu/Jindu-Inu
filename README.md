@@ -1,13 +1,15 @@
 Jindu Inu 2.0
 
+![alt text](https://i.imgur.com/3tK0qER.png)
+
 General:
 ========
-Name - Jindu Inu
-Symbol - JIND
+Name - Jindu Inu<br/>
+Symbol - JIND<br/>
 Total supply - 1,000,000,000,000,000 JIND
 
 Taxes breakdown:
 ================
-=4% - rewards to holders
-=5% - buy-back tax
+4% - rewards to holders<br/>
+5% - buy-back tax<br/>
 3% - marketing tax
